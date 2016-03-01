@@ -1,4 +1,4 @@
-# The Carnegie-Irvine Galaxy Survey\@. IV\@. A Method to Determine the Average Mass Ratio of Mergers That Built Massive Elliptical Galaxies
+# The Carnegie-Irvine Galaxy Survey. IV. A Method to Determine the Average Mass Ratio of Mergers That Built Massive Elliptical Galaxies
 
 * Song Huang (Kavli-IPMU, U.Tokyo), Luis C. Ho (KIAA, PKU), Chien Y. Peng (GMTO), Zhao-Yu Li (SHAO), Aaron J. Barth (UC Irvine)
 
